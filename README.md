@@ -2,6 +2,14 @@
 
 wallpapers for Debian DDE
 
+## What's the difference with deepin-wallpapers
+
+deepin-wallpapers contains many non free copyright pictures.
+
+Debian won't accept these pictures to the repo of Debian main area,
+
+so this project is created to replace deeppin-walllapers on Debian.
+
 
 
 ## Contribute
